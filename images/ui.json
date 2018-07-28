@@ -1,0 +1,20 @@
+{"frames": {
+
+"counter_bg.png":
+{
+	"frame": {"x":0,"y":0,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ui.png",
+	"format": "RGBA8888",
+	"size": {"w":200,"h":200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:028acb4380bd06d4636eba3e4b3a7b65:d197be92d54e132a2a1bc1194eb0497b:5b04aa198265472a3c5f56958d78e97b$"
+}
+}

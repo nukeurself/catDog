@@ -1,0 +1,30 @@
+{"frames": {
+
+"cat.png":
+{
+	"frame": {"x":0,"y":0,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"dog.png":
+{
+	"frame": {"x":200,"y":0,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cat_dog.png",
+	"format": "RGBA8888",
+	"size": {"w":400,"h":200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b479cce2a09be68026540adf8b32c129:65bf9040b4aa0ad0962f0d3d555aa21b:18730a340cd1690c7966a22674558cec$"
+}
+}
